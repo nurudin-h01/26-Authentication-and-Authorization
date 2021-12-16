@@ -3,7 +3,7 @@ const sessions = require("express-session");
 const cookieParser = require("cookie-parser");
 const OneMinutes = 1000 * 60;
 const app = express();
-const port = 5500;
+const port = 3000;
 app.use("/login", express.static('views'))
 app.use(express.urlencoded({ extended: true }))
 app.use(express.json())
