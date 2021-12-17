@@ -1,16 +1,10 @@
-## Hasil
+## Screenshots
 
-1. Soal - 02 JWT
+- Get All Book
+  ![Get All Book](Screenshots/Get_All.png)
 
-- Get Token Web
-  ![Get Token Web](assets/get_auth.png)
+- Create Book
+  ![Create Book](Screenshots/Create_book.png)
 
-- Get Books by Token
-  ![Get Books by Token](assets/Get_book_with_auth.png)
-
-- Post Book By admin with JWT
-  ![Post Book By admin with JWT](assets/Post_data_with_jwt.png)
-
-- Auth JWT
-  ![Auth JWT](assets/auth_jwt.png)
-
+- Get Token
+  ![Get Token](Screenshots/Get_Token.png)
